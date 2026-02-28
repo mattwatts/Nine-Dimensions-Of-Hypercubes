@@ -11,4 +11,6 @@ Animations generated with Python scripts. Python code included. Maths models and
 Deep Research. Bespoke AI protocols for safety and reliability. Google Gemini 3 pro. MS Copilot. Google Search AI Mode. Banner image - Google Nano Banana Pro. Profile picture - Duck.ai
 Human emotional experience of synthetic media. Hyper-dimensional geometry as spectral form. Brain Computer Interface Optimisation BCI. Yves Klein. International Klein Blue. IKB Blue. Zen. Industrialist data science. Synthesis of maths and computing. Digital arithmetic. C-64 MOS 6510 VIC-II. OR SA QUBO. Information Integrity. Applied Maths. Pure Maths. Computer Science.
 
+https://www.youtube.com/shorts/I9mU29kSryk
+
 https://www.youtube.com/channel/UC9jI8zTTWXm2vu43QbtoYmA
