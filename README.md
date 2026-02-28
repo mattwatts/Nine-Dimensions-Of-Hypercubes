@@ -3,3 +3,16 @@ Nine dimensions of Hypercubes
 The first nine dimensions of hypercubes folding in 3D space on an endless repeating loop. We omit dimension zero, 0D, "Point". 
 
 IKB Blue palette. A 45 second infinite loop animation made with maths modelling and simulation. Brain Computer Interface Optimisation BCI with high dimensional modelling, simulation, and visualisation.
+
+Made for Kids. Maths is everywhere.
+
+Animations generated with Python scripts. Python code included. Maths models and simulations produce the images.
+
+Includes "The Logic Garden". Python-based generative curriculum aimed at Early Stage Cognitive Development.
+
+Includes Yves Klein inspired series. An homage to his nearly 200 blue monochrome paintings in International Klein Blue pigment. Klein's colour scheme is used in some other works.
+
+Deep Research. Bespoke AI protocols for safety and reliability. Google Gemini 3 pro. MS Copilot. Google Search AI Mode. Banner image - Google Nano Banana Pro. Profile picture - Duck.ai
+Human emotional experience of synthetic media. Hyper-dimensional geometry as spectral form. Brain Computer Interface Optimisation BCI. Yves Klein. International Klein Blue. IKB Blue. Zen. Industrialist data science. Synthesis of maths and computing. Digital arithmetic. C-64 MOS 6510 VIC-II. OR SA QUBO. Information Integrity. Applied Maths. Pure Maths. Computer Science.
+
+https://www.youtube.com/channel/UC9jI8zTTWXm2vu43QbtoYmA
